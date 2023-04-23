@@ -1,0 +1,20 @@
+FILE DESCRIPTIONS
+**minimum comments in files due to class structure**
+
+
+3
+-Introduction to the basics of pandas and some basic data frame manipulation. Utilized a provided CSV for data
+4
+-introduction to utilizing matplotlib to visualize data acquired from the np arrays and panda data frames. Also involves graph decoration/manipulations
+5
+-practiced creating a data frame from a cdv file, and then some data frame manipulation. Also practiced graphically visualizing Timeseries data
+6
+-practiced analyzing imported csv files and creating different types of graphs and in different layouts.
+7
+-analyzed the infamous Titanic.csv and implemented a logistical regression machine learning model. Utilized dummy attributes to quantify categorical data. Created training and testing datasets. Also utilized a classification report to illustrate the precision and recall of model
+8
+-practiced utilizing different scalers (MinMaxScaler and StandardScaler), and then utilized KNN clusters for classification.
+9
+-utilized KNN to train a model to be able to predict diabetes based on various physiological measurements.
+Project
+-KNN cluster, Means, Decision Tree, Linear Regression, Residual plots, and graphical data visualization
